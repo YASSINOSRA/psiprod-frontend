@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/psiprod-frontend/static/css/main.30bc6f6f.css",
+    "main.js": "/psiprod-frontend/static/js/main.f0a34481.js",
+    "static/js/488.ea8c3dab.chunk.js": "/psiprod-frontend/static/js/488.ea8c3dab.chunk.js",
+    "static/media/h1.png": "/psiprod-frontend/static/media/h1.5d938e8ed9f97b9a7f74.png",
+    "static/media/9.png": "/psiprod-frontend/static/media/9.c565b2f848801312743d.png",
+    "static/media/12.png": "/psiprod-frontend/static/media/12.c89818f9784134f79146.png",
+    "static/media/11.png": "/psiprod-frontend/static/media/11.c3ec8bae517972923d4b.png",
+    "static/media/4.png": "/psiprod-frontend/static/media/4.61d990a6209d7dc9eee2.png",
+    "static/media/5.png": "/psiprod-frontend/static/media/5.817b0f6da35c1a2908dc.png",
+    "static/media/3.png": "/psiprod-frontend/static/media/3.69525059cbf715f675e4.png",
+    "static/media/10.png": "/psiprod-frontend/static/media/10.18c22a6ad047620a289a.png",
+    "static/media/6.png": "/psiprod-frontend/static/media/6.c7fcda1de736c2e8d822.png",
+    "static/media/7.png": "/psiprod-frontend/static/media/7.c7fcda1de736c2e8d822.png",
+    "static/media/8.png": "/psiprod-frontend/static/media/8.fba38f5f79fb89be3de8.png",
+    "static/media/1.png": "/psiprod-frontend/static/media/1.b5fed1462aa1e5884c39.png",
+    "static/media/2.png": "/psiprod-frontend/static/media/2.0b70ba38d09ee0040cf8.png",
+    "static/media/Layer_1.png": "/psiprod-frontend/static/media/Layer_1.3393ac8e504e60279c3e.png",
+    "index.html": "/psiprod-frontend/index.html",
+    "main.30bc6f6f.css.map": "/psiprod-frontend/static/css/main.30bc6f6f.css.map",
+    "main.f0a34481.js.map": "/psiprod-frontend/static/js/main.f0a34481.js.map",
+    "488.ea8c3dab.chunk.js.map": "/psiprod-frontend/static/js/488.ea8c3dab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30bc6f6f.css",
+    "static/js/main.f0a34481.js"
+  ]
+}
