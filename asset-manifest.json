@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/psiprod-frontend/static/css/main.4881a0bd.css",
-    "main.js": "/psiprod-frontend/static/js/main.2ad4635c.js",
+    "main.css": "/psiprod-frontend/static/css/main.72809eef.css",
+    "main.js": "/psiprod-frontend/static/js/main.bee413d8.js",
     "static/js/488.ea8c3dab.chunk.js": "/psiprod-frontend/static/js/488.ea8c3dab.chunk.js",
     "static/media/h1.png": "/psiprod-frontend/static/media/h1.5d938e8ed9f97b9a7f74.png",
     "static/media/7.png": "/psiprod-frontend/static/media/7.c59a423b3b87a83406d4.png",
@@ -19,12 +19,12 @@
     "static/media/2.png": "/psiprod-frontend/static/media/2.0b70ba38d09ee0040cf8.png",
     "static/media/Layer_1.png": "/psiprod-frontend/static/media/Layer_1.3393ac8e504e60279c3e.png",
     "index.html": "/psiprod-frontend/index.html",
-    "main.4881a0bd.css.map": "/psiprod-frontend/static/css/main.4881a0bd.css.map",
-    "main.2ad4635c.js.map": "/psiprod-frontend/static/js/main.2ad4635c.js.map",
+    "main.72809eef.css.map": "/psiprod-frontend/static/css/main.72809eef.css.map",
+    "main.bee413d8.js.map": "/psiprod-frontend/static/js/main.bee413d8.js.map",
     "488.ea8c3dab.chunk.js.map": "/psiprod-frontend/static/js/488.ea8c3dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4881a0bd.css",
-    "static/js/main.2ad4635c.js"
+    "static/css/main.72809eef.css",
+    "static/js/main.bee413d8.js"
   ]
 }
